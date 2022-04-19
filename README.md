@@ -4,7 +4,7 @@ Note: This is a user-interface demonstration. It does not have a real back-end.
 
 **Live website**: [https://friendflix.netlify.app/](https://friendflix.netlify.app/)
 
-**Source code**: [https://github.com/lumbywho/friendflix](https://github.com/lumbywho/friendflix)
+**Source code**: [https://github.com/lumbywho/friendflix](https://github.com/lumbywho/friendflix-ui)
 
 ---
 
