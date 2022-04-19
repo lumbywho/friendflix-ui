@@ -1,0 +1,371 @@
+{
+  "user": {
+    "name": "Tom Nook",
+    "photo": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZVWWQ2SAUNAXTAFWR65RV4AFGI.jpg",
+    "email": "tomnook@friendflix.com",
+    "list": [
+      "16",
+      "14",
+      "20",
+      "22",
+      "2",
+      "5",
+      "7",
+      "13"
+    ],
+    "friends": [
+      "testuser7@fmail.com",
+      "testuser1@fmail.com",
+      "testuser2@fmail.com",
+      "testuser3@fmail.com",
+      "testuser4@fmail.com",
+      "testuser5@fmail.com",
+      "testuser6@fmail.com"
+    ]
+  },
+  "users": [
+    {
+      "id": "1",
+      "name": "Jocelyn Septim",
+      "photo": "https://randomuser.me/api/portraits/women/72.jpg",
+      "email": "testuser1@fmail.com",
+      "list": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Ben Knight",
+      "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+      "email": "testuser2@fmail.com",
+      "list": [
+        "6",
+        "7",
+        "8",
+        "5",
+        "7",
+        "13",
+        "20",
+        "22",
+        "24",
+        "25",
+        "17"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Michelle Shumbusho",
+      "photo": "https://randomuser.me/api/portraits/women/69.jpg",
+      "email": "testuser3@fmail.com",
+      "list": [
+        "9",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Michael Slater",
+      "photo": "https://randomuser.me/api/portraits/men/42.jpg",
+      "email": "testuser4@fmail.com",
+      "list": []
+    },
+    {
+      "id": "5",
+      "name": "John Draxler",
+      "photo": "https://randomuser.me/api/portraits/men/10.jpg",
+      "email": "testuser5@fmail.com",
+      "list": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "9"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Shelly Cooper",
+      "photo": "https://randomuser.me/api/portraits/women/42.jpg",
+      "email": "testuser6@fmail.com",
+      "list": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "21",
+        "20",
+        "9"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Ray Frawe",
+      "photo": "https://randomuser.me/api/portraits/women/62.jpg",
+      "email": "testuser7@fmail.com",
+      "list": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "21",
+        "20"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Key Shums",
+      "photo": "https://randomuser.me/api/portraits/men/19.jpg",
+      "email": "testuser8@fmail.com",
+      "list": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "11",
+        "10"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Corey Edwarcs",
+      "photo": "https://randomuser.me/api/portraits/men/44.jpg",
+      "email": "testuser9@fmail.com",
+      "list": [
+        "2",
+        "23",
+        "4",
+        "25",
+        "1",
+        "20"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Fariah Simpsey",
+      "photo": "https://randomuser.me/api/portraits/women/11.jpg",
+      "email": "testuser10@fmail.com",
+      "list": [
+        "5",
+        "7",
+        "11",
+        "14",
+        "18",
+        "22",
+        "1",
+        "2",
+        "3",
+        "12"
+      ]
+    }
+  ],
+  "movies": [
+    {
+      "id": "1",
+      "year": "2011",
+      "name": "Limitless",
+      "photo": "https://m.media-amazon.com/images/M/MV5BYmViZGM0MGItZTdiYi00ZDU4LWIxNDYtNTc1NWQ5Njc2N2YwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+      "plot": "With the help of a mysterious pill that enables the user to access 100% of his brain's abilities, a struggling writer becomes a financial wizard.",
+      "trailer": "https://www.youtube.com/watch?v=4TLppsfzQH8"
+    },
+    {
+      "id": "2",
+      "year": "2013",
+      "name": "The Conjuring",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_SX300.jpg",
+      "plot": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+      "trailer": "https://www.youtube.com/watch?v=k10ETZ41q5o"
+    },
+    {
+      "id": "3",
+      "year": "2007",
+      "name": "Paranormal Activity",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMjY1NjcxODQ4MV5BMl5BanBnXkFtZTcwMzUxNjM4Mg@@._V1_SX300.jpg",
+      "plot": "After moving into a suburban home, a couple becomes increasingly disturbed by a nightly demonic presence.",
+      "trailer": "https://www.youtube.com/watch?v=F_UxLEqd074"
+    },
+    {
+      "id": "4",
+      "year": "2021",
+      "name": "Black Widow",
+      "photo": "https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "plot": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+      "trailer": "https://www.youtube.com/watch?v=ybji16u608U"
+    },
+    {
+      "id": "5",
+      "year": "2017",
+      "name": "Blade Runner 2049",
+      "photo": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SX300.jpg",
+      "plot": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+      "trailer": "https://www.youtube.com/watch?v=gCcx85zbxz4"
+    },
+    {
+      "id": "6",
+      "year": "2008",
+      "name": "Iron Man",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
+      "plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+      "trailer": "https://www.youtube.com/watch?v=8ugaeA-nMTc"
+    },
+    {
+      "id": "7",
+      "year": "2021",
+      "name": "Free Guy",
+      "photo": "https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+      "plot": "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
+      "trailer": "https://www.youtube.com/watch?v=X2m-08cOAbc"
+    },
+    {
+      "id": "8",
+      "year": "2021",
+      "name": "Dune",
+      "photo": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "plot": "Feature adaptation of Frank Herbert's science fiction novel about the son of a noble family entrusted with the protection of the most vital element in the galaxy.",
+      "trailer": "https://www.youtube.com/watch?v=8g18jFHCLXk"
+    },
+    {
+      "id": "9",
+      "year": "2013",
+      "name": "Oblivion",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_SX300.jpg",
+      "plot": "A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself.",
+      "trailer": "https://www.youtube.com/watch?v=XmIIgE7eSak"
+    },
+    {
+      "id": "10",
+      "year": "2014",
+      "name": "Edge of Tomorrow",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SX300.jpg",
+      "plot": "A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.",
+      "trailer": "https://www.youtube.com/watch?v=vw61gCe2oqI"
+    },
+    {
+      "id": "11",
+      "year": "2012",
+      "name": "Sightseers",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMTQ5ODAwNDAzOF5BMl5BanBnXkFtZTcwMDUyOTc0OQ@@._V1_SX300.jpg",
+      "plot": "Chris wants to show girlfriend Tina his world, but events soon conspire against the couple and their dream caravan holiday takes a very wrong turn.",
+      "trailer": "https://www.youtube.com/watch?v=qyg9aRqlUxM"
+    },
+    {
+      "id": "12",
+      "year": "2015",
+      "name": "Terminator Genysis",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_SX300.jpg",
+      "plot": "When John Connor sends Kyle Reese back to 1984 to protect Sarah Connor and safeguard the future, an unexpected turn of events creates a fractured timeline.",
+      "trailer": "https://www.youtube.com/watch?v=FqbOFjl7ZWE"
+    },
+    {
+      "id": "13",
+      "year": "2016",
+      "name": "Allegiant",
+      "photo": "https://m.media-amazon.com/images/M/MV5BNjk2OTc5YzQtMjAwMS00YWY4LTk1ZWItOTgyMmRkMGU4ZmY1XkEyXkFqcGdeQXVyMzQ1MzUwMTE@._V1_SX300.jpg",
+      "plot": "After the earth-shattering revelations of Insurgent, Tris must escape with Four beyond the wall that encircles Chicago, to finally discover the truth.",
+      "trailer": "https://www.youtube.com/watch?v=tE8LEPSTK6A"
+    },
+    {
+      "id": "14",
+      "year": "2016",
+      "name": "The 5th Wave",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMjQwOTc0Mzg3Nl5BMl5BanBnXkFtZTgwOTg3NjI2NzE@._V1_SX300.jpg",
+      "plot": "Four waves of increasingly deadly alien attacks have left most of Earth in ruin. Cassie is on the run, desperately trying to save her younger brother.",
+      "trailer": "https://www.youtube.com/watch?v=kmxLybfGNC4"
+    },
+    {
+      "id": "15",
+      "year": "2014",
+      "name": "City of Ember",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMTU3MDE4MDU1Nl5BMl5BanBnXkFtZTcwNDM2NDI5MQ@@._V1_SX300.jpg",
+      "plot": "For generations, the people of the City of Ember have flourished in an amazing world of glittering lights. But Ember's once powerful generator is failing.",
+      "trailer": "https://www.youtube.com/watch?v=CeHf7UhHpmE"
+    },
+    {
+      "id": "16",
+      "year": "2002",
+      "name": "Reign of Fire",
+      "photo": "https://m.media-amazon.com/images/M/MV5BZTU1ZGE0NmUtZWZjYS00YTI2LTkyMDItNGJlNDM3NjhkMDEwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "plot": "A brood of fire-breathing dragons emerges from the earth and begins setting everything ablaze, establishing dominance over the planet.",
+      "trailer": "https://www.youtube.com/watch?v=Xd2hHvq-SEA"
+    },
+    {
+      "id": "17",
+      "year": "2002",
+      "name": "The Time Machine",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMTM4YTViNGMtYTYyOS00MTViLWEyYTgtNGM0OTIwMWRmYzdhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "plot": "Hoping to alter the events of the past, a 19th century inventor instead travels 800,000 years into the future.",
+      "trailer": "https://www.youtube.com/watch?v=90T7iLuzFgg"
+    },
+    {
+      "id": "18",
+      "year": "2010",
+      "name": "Blue Valentine",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMTU4MTQ2MzA1Ml5BMl5BanBnXkFtZTcwODE3NTgwNA@@._V1_SX300.jpg",
+      "plot": "The relationship of a contemporary married couple, charting their evolution over a span of years by cross-cutting between time periods.",
+      "trailer": "https://www.youtube.com/watch?v=aILx69WrRhQ"
+    },
+    {
+      "id": "19",
+      "year": "2014",
+      "name": "Ride Along",
+      "photo": "https://m.media-amazon.com/images/M/MV5BNjU4NzYzOTY1MF5BMl5BanBnXkFtZTgwMTAyNTc1MDE@._V1_SX300.jpg",
+      "plot": "Security guard Ben must prove himself to his girlfriend's brother, top police officer James. He rides along James on a 24-hour patrol of Atlanta.",
+      "trailer": "https://www.youtube.com/watch?v=5klp6rkHIks"
+    },
+    {
+      "id": "20",
+      "year": "2015",
+      "name": "Victoria",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMTc5NzQzNjk2NF5BMl5BanBnXkFtZTgwODU0MjI5NjE@._V1_SX300.jpg",
+      "plot": "A young Spanish woman who has recently moved to Berlin finds her flirtation with a local guy turn potentially deadly.",
+      "trailer": "https://www.youtube.com/watch?v=6QzAA4qEGqs"
+    },
+    {
+      "id": "21",
+      "year": "2011",
+      "name": "The Beaver",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMzc0Nzc0MjA4OF5BMl5BanBnXkFtZTcwNTEyOTYxNA@@._V1_SX300.jp",
+      "plot": "A troubled husband and executive adopts a beaver hand-puppet as his sole means of communication.",
+      "trailer": "https://www.youtube.com/watch?v=DOSOWNS3jts"
+    },
+    {
+      "id": "22",
+      "year": "2018",
+      "name": "Tag",
+      "photo": "https://m.media-amazon.com/images/M/MV5BNzk4NDM3NjkwNF5BMl5BanBnXkFtZTgwNTk5MzkzNTM@._V1_SX300.jpg",
+      "plot": "A small group of former classmates organize an elaborate, annual game of tag that requires some to travel all over the country.",
+      "trailer": "https://www.youtube.com/watch?v=kjC1zmZo30U"
+    },
+    {
+      "id": "23",
+      "year": "2017",
+      "name": "It",
+      "photo": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg",
+      "plot": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown.",
+      "trailer": "https://www.youtube.com/watch?v=xKJmEC5ieOk"
+    },
+    {
+      "id": "24",
+      "year": "1984",
+      "name": "The NeverEnding Story",
+      "photo": "https://m.media-amazon.com/images/M/MV5BM2YwNWExYjItODZmOC00MTRjLWFlYmEtODFmNGI5M2E5NzYxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "plot": "A troubled boy dives into a wondrous fantasy world through the pages of a mysterious book.",
+      "trailer": "https://www.youtube.com/watch?v=UeFni9dOv7c"
+    },
+    {
+      "id": "25",
+      "year": "2017",
+      "name": "Lady Bird",
+      "photo": "https://m.media-amazon.com/images/M/MV5BODhkZGE0NDQtZDc0Zi00YmQ4LWJiNmUtYTY1OGM1ODRmNGVkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "plot": "In 2002, an artistically inclined seventeen-year-old girl comes of age in Sacramento, California.",
+      "trailer": "https://www.youtube.com/watch?v=cNi_HC839Wo"
+    }
+  ]
+}

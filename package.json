@@ -1,0 +1,21 @@
+{
+  "name": "friendflix",
+  "version": "0.0.1",
+  "description": "Makes it easy to find out which movies both you and your friends would like to watch.",
+  "private": true,
+  "scripts": {
+    "start": "concurrently --kill-others \"npm run backend\" \"nuxi dev\"",
+    "backend": "json-server --watch db.json --port 5000"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.5.0",
+    "@heroicons/vue": "^1.0.6",
+    "autoprefixer": "^10.4.4",
+    "concurrently": "^7.1.0",
+    "json-server": "^0.17.0",
+    "nuxt3": "latest",
+    "open": "^8.4.0",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.24"
+  }
+}
