@@ -139,7 +139,7 @@ These are the most relevant files pertaining to this project's code (the rest is
 		- ``movie/``
 			- ``[id].vue``
 		- ``user/``
-			- ``[id].vue
+			- ``[id].vue``
 		- ``explore.vue``
 		- ``friends.vue``
 		- ``index.vue``
