@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/hg8DMgB/frienflix-logo-compact.png)
 # FriendFlix
-Note: This is a user-interface demonstration. It doesn't have a real back-end.
+Note: This is a user-interface demonstration. It does not have a real back-end.
 
 **Live website**: [https://friendflix.netlify.app/](https://friendflix.netlify.app/)
 
