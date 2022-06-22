@@ -11,7 +11,7 @@
 
     <!-- 🔥🐲 some really weird 'hydration mismatch' stuff happens if I don't use <client-only> here -->
     <!-- without this, the movie card's title/year/synopsis will change after render, photo will remain the same??? -->
-    <!-- i could use <client-only> only for the <MovieCard>, but then the buttons appear *before* MovieCard does -->
+    <!-- i could use <client-only> *just* for the <MovieCard>, but then the buttons appear *before* MovieCard does -->
     <client-only>
       <MovieCard v-if="!outOfMovies" :movie="currentMovie" />
 
