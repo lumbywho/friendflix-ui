@@ -202,7 +202,7 @@ These are the most relevant files pertaining to this project's code (the rest is
 - **Common Fate**: Objects that move together are perceived as grouped or related.
 	- For example — the "Common Matches" / "Their List" button on a friend's page.
 
-### Chapter 3: We Seek and Use Visual Structure
+#### Chapter 3: We Seek and Use Visual Structure
 - Hierarchical structuring of information, using section headings and labels that screen readers can recognize as headings, helps people with visual impairments find their desired content.
 	- I used the property 'aria-current' while making the navbar, which should let screenreaders detect which main page button is active right now (if any).
 
